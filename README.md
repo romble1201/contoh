@@ -1,0 +1,2 @@
+# contoh
+Latihan membuat folder
